@@ -1,0 +1,27 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local editor and automation artifacts
+.playwright-mcp/
+.vscode/
+.va/
+
+# Raw media, generated outputs, and local working data
+G1405 media/
+Editing-Books/
+staging/
+out*/
+samples/*.mov
+tools/_editing_books_extract.json
+tools/_resolve_editors_guide_retime_excerpt.txt
+
+# OS files
+.DS_Store
+Thumbs.db

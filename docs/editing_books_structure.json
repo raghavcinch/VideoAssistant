@@ -1,0 +1,491 @@
+{
+  "note": "This file intentionally stores only high-level structure (outlines/headings) so the repo does not contain copyrighted book text.",
+  "books": [
+    {
+      "file": "Color Correction Handbook, Second Edition (Alexis Van Hurkman) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "ext": ".pdf",
+      "toc": [
+        {
+          "title": "1 COLOR CORRECTION WORKFLOWS",
+          "page": 1
+        },
+        {
+          "title": "Are You Grading for Cinema, Broadcast, or the Web?",
+          "page": 1
+        },
+        {
+          "title": "Where Colorists Fit In",
+          "page": 2
+        },
+        {
+          "title": "Before the Shoot: Choosing a Recording Format",
+          "page": 4
+        },
+        {
+          "title": "Digital Dailies: The Start of Postproduction",
+          "page": 12
+        },
+        {
+          "title": "Round-Trip Workﬂows",
+          "page": 18
+        },
+        {
+          "title": "ENVIRONMENT",
+          "page": 25
+        },
+        {
+          "title": "Understanding Display-Referred Color Management",
+          "page": 25
+        },
+        {
+          "title": "Choosing a Display",
+          "page": 29
+        },
+        {
+          "title": "Display Calibration",
+          "page": 50
+        },
+        {
+          "title": "Setting Up a Color Correction Suite",
+          "page": 60
+        },
+        {
+          "title": "Conﬁguring a Grading Theater",
+          "page": 68
+        },
+        {
+          "title": "Other Hardware for Color Correction",
+          "page": 76
+        },
+        {
+          "title": "3 PRIMARY CONTRAST ADJUSTMENTS",
+          "page": 83
+        },
+        {
+          "title": "How We See Color",
+          "page": 83
+        },
+        {
+          "title": "Luminance and Luma",
+          "page": 84
+        },
+        {
+          "title": "Evaluating Contrast Using Video Scopes",
+          "page": 92
+        },
+        {
+          "title": "Controls to Adjust Contrast",
+          "page": 97
+        },
+        {
+          "title": "Expanding Contrast",
+          "page": 110
+        },
+        {
+          "title": "Compressing Contrast",
+          "page": 113
+        },
+        {
+          "title": "Y'CBCR Luma Adjustments vs. RGB Luma Adjustments",
+          "page": 114
+        },
+        {
+          "title": "Redistributing Midtone Contrast",
+          "page": 117
+        },
+        {
+          "title": "Adjusting Log-Encoded Contrast",
+          "page": 122
+        },
+        {
+          "title": "Setting Appropriate Highlights and Shadows",
+          "page": 131
+        },
+        {
+          "title": "Working with High Dynamic Range (HDR) Media",
+          "page": 141
+        },
+        {
+          "title": "Contrast and Perception",
+          "page": 146
+        },
+        {
+          "title": "Contrast During Exhibition",
+          "page": 151
+        },
+        {
+          "title": "Dealing with Underexposure",
+          "page": 152
+        },
+        {
+          "title": "Dealing with Overexposure",
+          "page": 160
+        },
+        {
+          "title": "4 PRIMARY COLOR ADJUSTMENTS",
+          "page": 175
+        },
+        {
+          "title": "Color Temperature",
+          "page": 177
+        },
+        {
+          "title": "What Is Chroma?",
+          "page": 181
+        },
+        {
+          "title": "Analyzing Color Balance",
+          "page": 192
+        },
+        {
+          "title": "Using Color Balance Controls",
+          "page": 202
+        },
+        {
+          "title": "Using Log Color Controls",
+          "page": 229
+        },
+        {
+          "title": "Color Temperature Controls",
+          "page": 237
+        },
+        {
+          "title": "Using Color Curves",
+          "page": 238
+        },
+        {
+          "title": "Saturation Adjustments",
+          "page": 249
+        },
+        {
+          "title": "Understanding and Controlling Color Contrast",
+          "page": 262
+        },
+        {
+          "title": "5 HSL QUALIFICATION AND HUE CURVES",
+          "page": 273
+        },
+        {
+          "title": "HSL Qualiﬁcation in Theory",
+          "page": 274
+        },
+        {
+          "title": "Individual Qualiﬁer Controls",
+          "page": 277
+        },
+        {
+          "title": "A Basic HSL Qualiﬁcation Workﬂow",
+          "page": 289
+        },
+        {
+          "title": "Tips for Using and Optimizing HSL Qualiﬁcations",
+          "page": 297
+        },
+        {
+          "title": "Different Ways of Using HSL Qualiﬁers",
+          "page": 304
+        },
+        {
+          "title": "Hue Curve Adjustments",
+          "page": 315
+        },
+        {
+          "title": "Other Types of HSL Adjustments",
+          "page": 323
+        },
+        {
+          "title": "Advanced Keyers",
+          "page": 325
+        },
+        {
+          "title": "6 SHAPES",
+          "page": 331
+        },
+        {
+          "title": "Shape UI and Controls",
+          "page": 332
+        },
+        {
+          "title": "Highlighting Subjects",
+          "page": 338
+        },
+        {
+          "title": "Creating Depth",
+          "page": 343
+        },
+        {
+          "title": "Shapes + HSL Qualiﬁers",
+          "page": 349
+        },
+        {
+          "title": "Aggressive Digital Relighting",
+          "page": 350
+        },
+        {
+          "title": "Shapes and Motion",
+          "page": 355
+        },
+        {
+          "title": "7 ANIMATING GRADES",
+          "page": 365
+        },
+        {
+          "title": "Grade Animation Controls Compared",
+          "page": 365
+        },
+        {
+          "title": "Correcting Changes in Exposure",
+          "page": 373
+        },
+        {
+          "title": "Correcting Hue Shifts",
+          "page": 375
+        },
+        {
+          "title": "Grade Transitions Using Through Edits and Dissolves",
+          "page": 383
+        },
+        {
+          "title": "Artiﬁcial Lighting Changes",
+          "page": 385
+        },
+        {
+          "title": "Creative Grade Animation",
+          "page": 389
+        },
+        {
+          "title": "SKIES, AND FOLIAGE",
+          "page": 393
+        },
+        {
+          "title": "What Are Memory Colors?",
+          "page": 394
+        },
+        {
+          "title": "Ideals for Skin Tone",
+          "page": 407
+        },
+        {
+          "title": "Techniques for Adjusting Complexion Using Secondaries",
+          "page": 452
+        },
+        {
+          "title": "Ideals for Skies",
+          "page": 468
+        },
+        {
+          "title": "Techniques for Adjusting Skies",
+          "page": 477
+        },
+        {
+          "title": "Ideals for Foliage",
+          "page": 496
+        },
+        {
+          "title": "SCENE BALANCING",
+          "page": 511
+        },
+        {
+          "title": "Color Timing",
+          "page": 512
+        },
+        {
+          "title": "Strategies for Working with Clients",
+          "page": 515
+        },
+        {
+          "title": "How to Begin Balancing a Scene",
+          "page": 517
+        },
+        {
+          "title": "How to Match One Shot to Another",
+          "page": 520
+        },
+        {
+          "title": "Recycling Grades",
+          "page": 535
+        },
+        {
+          "title": "Scene Matching in Action",
+          "page": 542
+        },
+        {
+          "title": "BROADCAST SAFE",
+          "page": 549
+        },
+        {
+          "title": "Grading for Film Output",
+          "page": 551
+        },
+        {
+          "title": "Video Signal Standards and Limits",
+          "page": 552
+        },
+        {
+          "title": "Quality Control Issues That Affect Colorists",
+          "page": 560
+        },
+        {
+          "title": "Six Structured Steps to Legalizing Your Picture",
+          "page": 561
+        },
+        {
+          "title": "Monitoring and Legalizing Saturation in Detail",
+          "page": 562
+        },
+        {
+          "title": "RGB Color Space Legality and the RGB Parade Scope",
+          "page": 575
+        },
+        {
+          "title": "Soft Clipping for Luma and RGB",
+          "page": 578
+        },
+        {
+          "title": "Other Video Scope Options for Broadcast Gamut Monitoring",
+          "page": 579
+        },
+        {
+          "title": "Creating Graphics and Animation with Legal Values",
+          "page": 584
+        },
+        {
+          "title": "Broadcast-Safe Settings in Grading Applications",
+          "page": 586
+        },
+        {
+          "title": "Broadcast-Safe Settings in Editing Applications",
+          "page": 587
+        },
+        {
+          "title": "Avid Media Composer and Symphony Broadcast-Safe Settings",
+          "page": 588
+        },
+        {
+          "title": "Adobe Premiere Pro Broadcast-Safe Settings",
+          "page": 591
+        },
+        {
+          "title": "Final Cut Pro X Broadcast-Safe Settings",
+          "page": 592
+        },
+        {
+          "title": "Final Cut Pro 7 Broadcast-Safe Settings",
+          "page": 592
+        },
+        {
+          "title": "LOOK BOOK",
+          "page": 599
+        },
+        {
+          "title": "Tints and Color Washes",
+          "page": 600
+        },
+        {
+          "title": "Undertones",
+          "page": 610
+        },
+        {
+          "title": "Vibrance and Targeted Saturation",
+          "page": 618
+        },
+        {
+          "title": "INDEX",
+          "page": 621
+        }
+      ]
+    },
+    {
+      "file": "Film and Television Analysis (Harry M. BenshoffCaryn Murphy  Murphy, Caryn) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "ext": ".epub",
+      "headings": [
+        "Cover",
+        "Half Title",
+        "Title Page",
+        "Copyright Page",
+        "Table of Contents",
+        "Figures and diagrams",
+        "Foreword: About this book",
+        "Chapter 1 Introduction to culture and cultural criticism",
+        "Problematizing culture, problematizing art",
+        "A brief history of high and low art in film and television",
+        "A contemporary cultural studies framework",
+        "References and further reading",
+        "Chapter 2 Concepts of ideology",
+        "Marx and ideology",
+        "The Frankfurt School: Marxism and the media",
+        "Althusser and Gramsci: Hope for social change without revolution?",
+        "Where to “find” ideology in film and television texts",
+        "References and further reading",
+        "Chapter 3 Semiotics, structuralism, and beyond",
+        "Basic terms and concepts of the sign",
+        "Putting signs together: Structures of meaning",
+        "Side bar: How film and television are un/like languages",
+        "From structuralism to poststructuralism",
+        "References and further reading",
+        "Chapter 4 Authorship and the auteur theory",
+        "Authorship before the auteur theory",
+        "From “La Politique des Auteurs” to “The Auteur Theory”",
+        "The infusion of semiotics: Structuralist and poststructuralist concepts of the auteur",
+        "The return of the auteur",
+        "Conclusion",
+        "References and further reading",
+        "Chapter 5 Film and television genres",
+        "Clarifying basic terms and concepts",
+        "Identifying genres, evolving genres",
+        "Genre versus intertextuality",
+        "TV and genre: An uneasy fit",
+        "References and further reading",
+        "Chapter 6 Psychoanalysis (part one): Basic concepts",
+        "Psychoanalysis 101: A model of the mind",
+        "Infantile sexuality and the Oedipus complex",
+        "Applying psychoanalysis to film and TV: A text-based approach",
+        "Conclusions and critiques",
+        "References and further reading",
+        "Chapter 7 Psychoanalysis (part two): Screen and apparatus theory",
+        "Lacanian psychoanalysis: Rewriting Freud",
+        "The cinematographic apparatus: Baudry and Metz",
+        "Conclusions and critiques",
+        "References and further reading",
+        "Chapter 8 Feminist approaches to film and television",
+        "Basic terms and concepts",
+        "First and second wave feminism: Impact on film and television",
+        "Laura Mulvey: Psychoanalysis, apparatus theory, and gender",
+        "Conclusion",
+        "References and further reading",
+        "Chapter 9 Film, television, and the postmodern",
+        "From classicism to modernism",
+        "From modernism to postmodernism",
+        "Toward a postmodern aesthetic",
+        "Conclusion: (Some) politics of postmodernism",
+        "References and further reading",
+        "Chapter 10 Cultural studies and reception",
+        "A brief history of the rise of cultural studies",
+        "“Encoding/decoding” and Gramscian hegemony",
+        "Related concepts of texts and discourses",
+        "Reception studies",
+        "Notes",
+        "References and further reading",
+        "Chapter 11 Audiences and fandoms",
+        "A brief history of media fans",
+        "Manufacturing fandoms?",
+        "Incorporation and resistance",
+        "Henry Jenkins, “textual poaching,” and shipping",
+        "Conclusion",
+        "References and further reading",
+        "Chapter 12 Beyond identity politics: Contemporary thinking on nation, race, gender, and sexuality",
+        "Ten trends in contemporary thinking about identity",
+        "Basic concepts of postcolonial and critical race theory",
+        "Further thinking about gender and sexuality",
+        "References and further reading",
+        "Glossary",
+        "Index"
+      ]
+    },
+    {
+      "file": "The Editor’s Guide to DaVinci Resolve 20 (Chris Roberts) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "ext": ".pdf",
+      "toc": []
+    }
+  ]
+}
